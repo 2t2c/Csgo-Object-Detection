@@ -1,0 +1,13 @@
+absl_py==1.0.0
+mss==6.1.0
+numpy==1.21.2
+opencv_python==4.5.5.62
+opencv_python_headless==4.5.5.62
+pandas==1.4.2
+pandas_stubs==1.2.0.39
+Pillow==8.3.2
+protobuf==3.19.1
+PyAutoGUI==0.9.53
+pywin32==227
+tensorflow==2.7.0
+tensorflow_gpu==2.7.0
